@@ -1,5 +1,5 @@
 # Estrutura do projeto
-
+```
 backend/
 ├─ rotas/
 ├─ app.js
@@ -16,7 +16,7 @@ docker-compose.yml
 package.json
 package-lock.json
 README.md
-
+```
 # Descrição:
 
 Este projeto é uma aplicação web simples construída em Node.js com Docker, composta pelo backend e frontend.

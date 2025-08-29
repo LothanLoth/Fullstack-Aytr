@@ -44,6 +44,8 @@ Interface web simples para interação com a API backend, permitindo enviar nome
 
 # Como rodar
 
+- Certifique-se de ter o Docker Engine para execução
+
 ## Usando Docker Compose
 
 - No diretório raiz do projeto, execute: "docker-compose up --build"

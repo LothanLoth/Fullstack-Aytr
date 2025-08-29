@@ -1,21 +1,21 @@
 # Estrutura do projeto
 
-├── backend
-│   ├── rotas
-│   ├── app.js
-│   ├── package.json
-│   ├── package-lock.json
-│   └── Dockerfile
-├── frontend
-│   ├── public
-│   ├── src
-│   ├── package.json
-│   ├── package-lock.json
-│   └── Dockerfile
-├── docker-compose.yml
-│   ├── package.json
-│   ├── package-lock.json
-└── README.md
+backend/
+├─ rotas/
+├─ app.js
+├─ package.json
+├─ package-lock.json
+├─ Dockerfile
+frontend/
+├─ public/
+├─ src/
+├─ package.json
+├─ package-lock.json
+├─ Dockerfile
+docker-compose.yml
+package.json
+package-lock.json
+README.md
 
 # Descrição:
 
